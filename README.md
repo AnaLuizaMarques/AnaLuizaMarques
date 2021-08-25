@@ -1,5 +1,6 @@
 ## Olá! Meu nome é Ana e seja muito bem vinde ao meu GitHub!
-<div>
+Atualmente estou aprendendo JavaScript e possuo conhecimento básico em Kotlin e Python.
+<div>    
     <a href="https://github.com/AnaLuizaMarques">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnaLuizaMarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLuizaMarques&layout=compact&langs_count=16&theme=dracula"/>
