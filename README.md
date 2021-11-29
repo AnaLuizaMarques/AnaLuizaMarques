@@ -7,9 +7,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLuizaMarques&layout=compact&langs_count=16&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
-    <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Ana-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-    <img align="center" alt="Ana-Python" height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg>
+    <img align="center" alt="Ana-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Ana-css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+    <img align="center" alt="Ana-html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+    <img align="center" alt="Ana-kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
 </div>
   
   ##
