@@ -1,7 +1,8 @@
 ## Hi! My name is Ana, welcome to my GitHub!
-- I'm Information Systems Student.
-- Dev Full Stack Jr. Graduated at [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-full-stack).
-- Backend Developer Intern.
+- Web Developer Specializing in E-commerce.
+- Digital Marketing Specialist by [Greystone College](https://www.ilsc.com/greystone-college).
+- FullStack Junior by [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-full-stack).
+- Information Systems Student.
 <div>    
     <a href="https://github.com/AnaLuizaMarques">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnaLuizaMarques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
